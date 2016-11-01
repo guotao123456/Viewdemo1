@@ -27,7 +27,6 @@ public class ScrapeView extends View {
     private Paint pathPaint;
     //手指头刮开的路径
     private Path path;
-
     //用来当做覆盖用的图层的文字画笔
     private Paint contentPaint;
     //用来当做覆盖用的图层的文字内容
